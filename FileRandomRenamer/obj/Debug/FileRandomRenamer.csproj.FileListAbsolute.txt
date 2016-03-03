@@ -1,0 +1,6 @@
+c:\users\marci_000\documents\visual studio 2013\Projects\FileRandomRenamer\FileRandomRenamer\bin\Debug\FileRandomRenamer.exe.config
+c:\users\marci_000\documents\visual studio 2013\Projects\FileRandomRenamer\FileRandomRenamer\bin\Debug\FileRandomRenamer.exe
+c:\users\marci_000\documents\visual studio 2013\Projects\FileRandomRenamer\FileRandomRenamer\bin\Debug\FileRandomRenamer.pdb
+c:\users\marci_000\documents\visual studio 2013\Projects\FileRandomRenamer\FileRandomRenamer\obj\Debug\FileRandomRenamer.exe
+c:\users\marci_000\documents\visual studio 2013\Projects\FileRandomRenamer\FileRandomRenamer\obj\Debug\FileRandomRenamer.pdb
+C:\Users\marci_000\documents\visual studio 2013\Projects\FileRandomRenamer\FileRandomRenamer\obj\Debug\FileRandomRenamer.csprojResolveAssemblyReference.cache
